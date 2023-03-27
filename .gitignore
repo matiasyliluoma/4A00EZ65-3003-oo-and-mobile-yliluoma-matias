@@ -32,3 +32,15 @@ _ReSharper*/
 packages/
 *.class
 *.jar
+/homework-mobile/01/01/META-INF/main.kotlin_module
+/homework-mobile/01/02/META-INF/main.kotlin_module
+/homework-mobile/01/03/META-INF/main.kotlin_module
+/homework-mobile/01/04/META-INF/main.kotlin_module
+/homework-mobile/01/05/META-INF/main.kotlin_module
+/homework-mobile/01/06/META-INF/main.kotlin_module
+/homework-mobile/02/01/META-INF/main.kotlin_module
+/homework-mobile/02/02/META-INF/main.kotlin_module
+/homework-mobile/03/01/META-INF/main.kotlin_module
+/homework-mobile/03/02/META-INF/main.kotlin_module
+/homework-mobile/03/03/META-INF/main.kotlin_module
+/homework-mobile/03/04/META-INF/main.kotlin_module
